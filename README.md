@@ -8,7 +8,7 @@
 - **Specialties:** iOS architecture, AI-driven applications, and distributed systems  
 
 ### 🌱 Currently Exploring  
-- **Open-source LLMs** (e.g., Lama 3.2, Ollama, MLX) for innovative applications  
+- **Open-source LLMs** (e.g. Ollama, MLX) for innovative applications  
 - Advanced architectures with **retrieval-augmented generation (RAG)**  
 - The intersection of **Bitcoin Lightning** and distributed technologies  
 
