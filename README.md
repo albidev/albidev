@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Albi (@albidev)
 
-🚀 **OG iOS Developer** since day one. Today, I channel that expertise into building intelligent systems, engineering complex AI workflows, autonomous agents, and highly optimized, scalable architectures.
+🚀 **OG iOS Developer** since day one. Today, I channel that expertise into building intelligent systems—engineering complex AI workflows, autonomous agents, and highly optimized, scalable architectures.
 
 ## 🧠 The BDH Ecosystem & Autonomous Agents
 
@@ -11,19 +11,21 @@ I'm currently building out a modular architecture that rethinks personal data re
 
 ## 🔧 Tech Stack & Tools
 
-### Core Languages
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+*   **Core Engineering:** Swift, Python, JavaScript, Trypescript, Ruby
+*   **AI & Local LLMs:** MLX, Ollama, LangChain, Llama models, Qwen
+*   **Data & Retrieval:** ChromaDB, Graph Databases, Advanced RAG
+*   **Systems:** Agentic Workflows ([Hermes](https://github.com/nousresearch/hermes-agent)), Distributed Architectures, Bitcoin Lightning
 
-### AI, Data & Architecture
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=Ollama&logoColor=black)
-![MLX](https://img.shields.io/badge/Apple_MLX-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Graph Databases](https://img.shields.io/badge/Graph_DBs-4198fa?style=for-the-badge&logo=graphql&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge&logo=robot&logoColor=white)
+<br>
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,py,js,ts,ruby,git,docker&theme=dark" alt="Skill Icons" />
+  </a>
+</div>
+<br>
 
 ## 🌱 Currently Exploring
-- **Agentic Workflows:** Orchestrating autonomous tasks with Hermes models and local LLMs (Gemma4, Qwen and more).
+
+- **Agentic Workflows:** Orchestrating autonomous tasks with [Hermes](https://github.com/nousresearch/hermes-agent) models and local LLMs (Gemma4, Qwen, and more).
 - **Advanced RAG:** Bridging graph databases with associative memory paradigms.
 - **Bitcoin & Lightning:** The intersection of decentralized money and distributed tech.
