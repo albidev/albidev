@@ -6,9 +6,10 @@
 
 I'm currently building out a modular architecture that rethinks personal data retrieval and local AI interactions, heavily leveraging **Agentic workflows**:
 
-*   **[bdh-graph-harness](https://github.com/albidev/bdh-graph-harness):** A graph-based retrieval system for Obsidian vaults exploring *Hebbian synaptic plasticity*. Experimenting with associative memory models to push RAG beyond standard vector embeddings.
-*   **[bdh-hermes-bridge](https://github.com/albidev/bdh-hermes-bridge):** The communication and routing layer for the BDH ecosystem. It acts as the backbone for **Hermes Agent**, enabling advanced function calling and allowing autonomous execution of complex, distributed tasks using local LLMs.
 *   **[hermes-mission-control](https://github.com/albidev/hermes-mission-control):** A local-first operations dashboard for [Hermes Agent](https://github.com/nousresearch/hermes-agent). It provides live telemetry, system health, sessions, agents, model usage, tools, skills, logs, and quick actions through a responsive React/Vite interface backed by a lightweight Python sidecar.
+*   **[bdh-graph-harness](https://github.com/albidev/bdh-graph-harness):** A graph-based retrieval system for Obsidian vaults exploring *Hebbian synaptic plasticity*. Experimenting with associative memory models to push RAG beyond standard vector embeddings.
+*   **[bdh-hermes-bridge](https://github.com/albidev/bdh-hermes-bridge):** A bidirectional [Hermes Agent](https://github.com/nousresearch/hermes-agent) plugin connecting agent sessions to BDH’s knowledge graph, with vault routing and session-to-knowledge workflows.
+*   **[mc-curate-plugin](https://github.com/albidev/mc-curate-plugin):** A Mission Control plugin for reviewing and approving nightly brain candidates, keeping human oversight in the knowledge consolidation workflow.
 
 ## 🔧 Tech Stack & Tools
 
@@ -30,3 +31,8 @@ I'm currently building out a modular architecture that rethinks personal data re
 - **Agentic Workflows:** Orchestrating autonomous tasks with [Hermes](https://github.com/nousresearch/hermes-agent) models and local LLMs (Gemma4, Qwen, and more).
 - **Advanced RAG:** Bridging graph databases with associative memory paradigms.
 - **Bitcoin & Lightning:** The intersection of decentralized money and distributed tech.
+
+
+## 💬 Contact
+
+Discord: `albidev`
