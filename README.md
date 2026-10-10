@@ -2,9 +2,9 @@
 
 🚀 **OG iOS Developer** since day one. Today, I apply that experience to intelligent systems: complex AI workflows, autonomous agents, graph-based retrieval, and scalable software architectures.
 
-## 🧠 The BDH Ecosystem & Autonomous Agents
+## 🛠️ Selected Projects
 
-I'm currently building out a modular architecture that rethinks personal data retrieval and local AI interactions, heavily leveraging **Agentic workflows**:
+I build local-first tools for AI agents, adaptive knowledge systems, and human–AI collaboration:
 
 *   **[hermes-mission-control](https://github.com/albidev/hermes-mission-control):** A local-first operations dashboard for [Hermes Agent](https://github.com/nousresearch/hermes-agent). It provides live telemetry, system health, sessions, agents, model usage, tools, skills, logs, and quick actions through a responsive React/Vite interface backed by a lightweight Python sidecar.
 *   **[bdh-graph-harness](https://github.com/albidev/bdh-graph-harness):** A graph-based retrieval system for Obsidian vaults exploring *Hebbian synaptic plasticity*. Experimenting with associative memory models to push RAG beyond standard vector embeddings.
